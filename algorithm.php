@@ -25,7 +25,7 @@ echo $phiz." =phiz  ";
 echo"<br>";
 // Function to print primes for e n 
 /*$count=0;
-$arrayp=array(0,1);
+$arrayp=array(0,1);;
 $isit=0;*/
 /*
 // Driver Code
